@@ -1,4 +1,4 @@
-package com.lab3;
+package com.oop.lab3;
 
 import java.util.*;
 import java.util.stream.Stream;

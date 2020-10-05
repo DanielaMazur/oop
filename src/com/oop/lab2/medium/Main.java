@@ -1,4 +1,4 @@
-package com.opp.lab2.medium;
+package com.oop.lab2.medium;
 
 public class Main {
     public static void main(String[] args) {

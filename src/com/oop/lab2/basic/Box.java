@@ -1,4 +1,4 @@
-package com.opp.lab2.basic;
+package com.oop.lab2.basic;
 
 public class Box {
     int height;
